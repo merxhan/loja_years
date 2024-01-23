@@ -16,7 +16,7 @@ function chart2023() {
             labels: ['Sapituca', 'Caraminholas', 'Casa do bebe', 'NT', 'Alfa'],
             datasets: [{
                 label: '',
-                data: [2162737, 2137138, 2100227, 2574038, 560400],
+                data: [3114248.68, 4446682.50, 3020235.99, 3181697.02, 825359.38],
                 backgroundColor: [
                     'rgba(255, 159, 64, 0.2)',
                     'rgba(153, 102, 255, 0.2)',
@@ -60,7 +60,7 @@ function chart2022() {
             labels: ['Sapituca', 'Caraminholas', 'Casa do bebe', 'NT', 'Alfa'],
             datasets: [{
                 label: '',
-                data: [2942796.63, 3088971.31, 3234588.82, 3408865, 901535.91],
+                data: [2942796.63, 3991052.23, 3234588.82, 3088971.31, 901535.91],
                 backgroundColor: [
                     'rgba(255, 159, 64, 0.2)',
                     'rgba(153, 102, 255, 0.2)',
